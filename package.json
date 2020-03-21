@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "gl-matrix": "^3.0.0",
+    "http-server": "^0.12.1",
     "yootils": "0.0.16"
   }
 }
