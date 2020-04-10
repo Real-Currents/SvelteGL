@@ -2,7 +2,7 @@
 
 Declarative WebGL scene graphs inside [Svelte](https://svelte.dev).
 
-<a href="https://svelte-gl-demo.surge.sh">
+<a href="https://real-currents.github.io/SvelteGL/">
 <img width="1118" alt="screenshot" src="screenshot.png">
 </a>
 
